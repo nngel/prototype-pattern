@@ -1,4 +1,4 @@
-# Prototype-Pattern
+# Prototype-Design-Pattern (LABHW7)
 
 ![alt text](image.png)
 
