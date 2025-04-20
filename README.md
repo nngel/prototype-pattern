@@ -1,4 +1,4 @@
-# LabAssign7_Prototype-Pattern
+# Prototype-Pattern
 
 ![alt text](image.png)
 
